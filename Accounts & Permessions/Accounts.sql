@@ -1,3 +1,8 @@
+-- At first you have to enable logging in using SQL Authentication
+    -- Right click on Server in the explorer 
+        -- Open Security Tap
+            -- Check 'SQL Server and Windows Authentication mode'
+
 use master
 go
 
